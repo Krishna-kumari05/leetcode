@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Krishna-kumari05/leetcode/tree/master/0135-candy) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Krishna-kumari05/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 ## Greedy
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krishna-kumari05/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/Krishna-kumari05/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
