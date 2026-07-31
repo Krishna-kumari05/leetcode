@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Krishna-kumari05/leetcode/tree/master/0135-candy) |
+| [0870-advantage-shuffle](https://github.com/Krishna-kumari05/leetcode/tree/master/0870-advantage-shuffle) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Krishna-kumari05/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/Krishna-kumari05/leetcode/tree/master/0135-candy) |
+| [0870-advantage-shuffle](https://github.com/Krishna-kumari05/leetcode/tree/master/0870-advantage-shuffle) |
 ## Tree
 |  |
 | ------- |
@@ -61,9 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0870-advantage-shuffle](https://github.com/Krishna-kumari05/leetcode/tree/master/0870-advantage-shuffle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krishna-kumari05/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/Krishna-kumari05/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+## Two Pointers
+|  |
+| ------- |
+| [0870-advantage-shuffle](https://github.com/Krishna-kumari05/leetcode/tree/master/0870-advantage-shuffle) |
 <!---LeetCode Topics End-->
