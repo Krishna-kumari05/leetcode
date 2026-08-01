@@ -27,8 +27,9 @@ public:
         TreeNode* root=new TreeNode(preorder[prestart]);
         int indexroot=mp[root->val];
         int numsleft=indexroot-inorderstart;
-        root->left=tree(preorder,prestart+1,prestart+numsleft,inorder,inorderstart,indexroot-1,mp);
+       
         root->right=tree(preorder,prestart+numsleft+1,preend,inorder,indexroot+1,inorderend,mp);
+         root->left=tree(preorder,prestart+1,prestart+numsleft,inorder,inorderstart,indexroot-1,mp);
         return root;
     }
 };
