@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Krishna-kumari05/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krishna-kumari05/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Krishna-kumari05/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1406-stone-game-iii](https://github.com/Krishna-kumari05/leetcode/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Krishna-kumari05/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Krishna-kumari05/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Krishna-kumari05/leetcode/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Krishna-kumari05/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Krishna-kumari05/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Krishna-kumari05/leetcode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Krishna-kumari05/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Krishna-kumari05/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Krishna-kumari05/leetcode/tree/master/1406-stone-game-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -205,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Krishna-kumari05/leetcode/tree/master/0994-rotting-oranges) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Krishna-kumari05/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Krishna-kumari05/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
