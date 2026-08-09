@@ -22,7 +22,7 @@ public:
                 continue;
             }
             for(auto l:adj[node]){
-                if(cost+l.second<dist[l.first] && stop<=k){
+                if(cost+l.second<dist[l.first] ){
                     dist[l.first]=cost+l.second;
                 
                     q.push({stop+1,{l.first,l.second+cost}});
