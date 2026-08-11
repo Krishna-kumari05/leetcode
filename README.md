@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krishna-kumari05/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Krishna-kumari05/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1406-stone-game-iii](https://github.com/Krishna-kumari05/leetcode/tree/master/1406-stone-game-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Krishna-kumari05/leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -166,12 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Krishna-kumari05/leetcode/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishna-kumari05/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krishna-kumari05/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Krishna-kumari05/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0870-advantage-shuffle](https://github.com/Krishna-kumari05/leetcode/tree/master/0870-advantage-shuffle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krishna-kumari05/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Krishna-kumari05/leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
