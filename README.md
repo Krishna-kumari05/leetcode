@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Krishna-kumari05/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishna-kumari05/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Krishna-kumari05/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Krishna-kumari05/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krishna-kumari05/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Krishna-kumari05/leetcode/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/Krishna-kumari05/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Krishna-kumari05/leetcode/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishna-kumari05/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Krishna-kumari05/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krishna-kumari05/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishna-kumari05/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Krishna-kumari05/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Krishna-kumari05/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Krishna-kumari05/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Krishna-kumari05/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Krishna-kumari05/leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Krishna-kumari05/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishna-kumari05/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Krishna-kumari05/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Krishna-kumari05/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krishna-kumari05/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3310-remove-methods-from-project](https://github.com/Krishna-kumari05/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Krishna-kumari05/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Krishna-kumari05/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Number Theory
 |  |
 | ------- |
