@@ -7,12 +7,10 @@ public:
             cnt[x % 3]++;
         }
 
-        // Even number of stones divisible by 3
         if (cnt[0] % 2 == 0) {
             return cnt[1] > 0 && cnt[2] > 0;
         }
 
-        // Odd number of stones divisible by 3
         return abs(cnt[1] - cnt[2]) > 2;
     }
 };
