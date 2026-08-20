@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Krishna-kumari05/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Krishna-kumari05/leetcode/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishna-kumari05/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Krishna-kumari05/leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Krishna-kumari05/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Krishna-kumari05/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Krishna-kumari05/leetcode/tree/master/1406-stone-game-iii) |
@@ -415,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Krishna-kumari05/leetcode/tree/master/2029-stone-game-ix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Krishna-kumari05/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
