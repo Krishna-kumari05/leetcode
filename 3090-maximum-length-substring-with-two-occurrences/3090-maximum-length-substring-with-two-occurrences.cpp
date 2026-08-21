@@ -11,7 +11,6 @@ public:
 
             freq[s[right] - 'a']++;
 
-            // If any character occurs more than twice
             while (freq[s[right] - 'a'] > 2) {
                 freq[s[left] - 'a']--;
                 left++;
