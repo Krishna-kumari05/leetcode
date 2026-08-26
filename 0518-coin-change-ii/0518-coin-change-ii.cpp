@@ -5,14 +5,13 @@ public:
 
         vector<vector<long long>> dp(n, vector<long long>(amount + 1, 0));
 
-        // Using only coin[0]
+  
         for (int t = 0; t <= amount; t++) {
             if (t % coins[0] == 0) {
                 dp[0][t] = 1;
             }
         }
 
-        // Every amount 0 has exactly one way: choose nothing
         for (int i = 0; i < n; i++) {
             dp[i][0] = 1;
         }
