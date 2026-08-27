@@ -16,7 +16,6 @@ public:
             if(s[j] == '1')
                 cnt++;
 
-         
             while(cnt >= k) {
 
                 if(cnt == k) {
@@ -33,7 +32,7 @@ public:
                     }
                 }
 
-            
+                
                 if(s[i] == '1')
                     cnt--;
 
