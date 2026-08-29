@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Krishna-kumari05/leetcode/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krishna-kumari05/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Krishna-kumari05/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krishna-kumari05/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishna-kumari05/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Krishna-kumari05/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/Krishna-kumari05/leetcode/tree/master/0870-advantage-shuffle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krishna-kumari05/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krishna-kumari05/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krishna-kumari05/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Krishna-kumari05/leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Krishna-kumari05/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Krishna-kumari05/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Krishna-kumari05/leetcode/tree/master/1020-number-of-enclaves) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krishna-kumari05/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
