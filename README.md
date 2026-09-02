@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishna-kumari05/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Krishna-kumari05/leetcode/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/Krishna-kumari05/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krishna-kumari05/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/Krishna-kumari05/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Krishna-kumari05/leetcode/tree/master/1510-stone-game-iv) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Krishna-kumari05/leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krishna-kumari05/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1143-longest-common-subsequence](https://github.com/Krishna-kumari05/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/Krishna-kumari05/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Krishna-kumari05/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Krishna-kumari05/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -532,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Krishna-kumari05/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Krishna-kumari05/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
