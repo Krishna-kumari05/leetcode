@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Krishna-kumari05/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishna-kumari05/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Krishna-kumari05/leetcode/tree/master/0877-stone-game) |
+| [1092-shortest-common-supersequence](https://github.com/Krishna-kumari05/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Krishna-kumari05/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Krishna-kumari05/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krishna-kumari05/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Krishna-kumari05/leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krishna-kumari05/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0583-delete-operation-for-two-strings](https://github.com/Krishna-kumari05/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/Krishna-kumari05/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Krishna-kumari05/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Krishna-kumari05/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1927-sum-game](https://github.com/Krishna-kumari05/leetcode/tree/master/1927-sum-game) |
@@ -542,5 +544,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Krishna-kumari05/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/Krishna-kumari05/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Krishna-kumari05/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
