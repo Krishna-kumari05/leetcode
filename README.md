@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Krishna-kumari05/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krishna-kumari05/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Krishna-kumari05/leetcode/tree/master/0733-flood-fill) |
 | [0870-advantage-shuffle](https://github.com/Krishna-kumari05/leetcode/tree/master/0870-advantage-shuffle) |
 | [0877-stone-game](https://github.com/Krishna-kumari05/leetcode/tree/master/0877-stone-game) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Krishna-kumari05/leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Krishna-kumari05/leetcode/tree/master/0135-candy) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krishna-kumari05/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0870-advantage-shuffle](https://github.com/Krishna-kumari05/leetcode/tree/master/0870-advantage-shuffle) |
 | [1386-cinema-seat-allocation](https://github.com/Krishna-kumari05/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Krishna-kumari05/leetcode/tree/master/1927-sum-game) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Krishna-kumari05/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krishna-kumari05/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishna-kumari05/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Krishna-kumari05/leetcode/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/Krishna-kumari05/leetcode/tree/master/1092-shortest-common-supersequence) |
