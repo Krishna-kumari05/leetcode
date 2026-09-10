@@ -29,10 +29,10 @@ private:
         
         count = leftCount + rightCount + 1;
 
-    
+        
         int totalSum = leftSum + rightSum + root->val;
 
-      
+        
         if (totalSum / count == root->val) {
             number++;
         }
