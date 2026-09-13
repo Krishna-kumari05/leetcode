@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krishna-kumari05/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Krishna-kumari05/leetcode/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Krishna-kumari05/leetcode/tree/master/0835-image-overlap) |
 | [0870-advantage-shuffle](https://github.com/Krishna-kumari05/leetcode/tree/master/0870-advantage-shuffle) |
 | [0877-stone-game](https://github.com/Krishna-kumari05/leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Krishna-kumari05/leetcode/tree/master/0994-rotting-oranges) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Krishna-kumari05/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Krishna-kumari05/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Krishna-kumari05/leetcode/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Krishna-kumari05/leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Krishna-kumari05/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Krishna-kumari05/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krishna-kumari05/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
