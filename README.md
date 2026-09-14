@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Krishna-kumari05/leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Krishna-kumari05/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Krishna-kumari05/leetcode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Krishna-kumari05/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Krishna-kumari05/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Krishna-kumari05/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Krishna-kumari05/leetcode/tree/master/1510-stone-game-iv) |
@@ -602,4 +603,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-kumari05/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Krishna-kumari05/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
