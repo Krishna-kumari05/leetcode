@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Krishna-kumari05/leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Krishna-kumari05/leetcode/tree/master/1563-stone-game-v) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Krishna-kumari05/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Krishna-kumari05/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Krishna-kumari05/leetcode/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krishna-kumari05/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Krishna-kumari05/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Krishna-kumari05/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Krishna-kumari05/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishna-kumari05/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Krishna-kumari05/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Krishna-kumari05/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Krishna-kumari05/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Krishna-kumari05/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Krishna-kumari05/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Krishna-kumari05/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
