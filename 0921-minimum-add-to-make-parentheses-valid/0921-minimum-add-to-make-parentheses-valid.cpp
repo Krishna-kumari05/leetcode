@@ -17,7 +17,6 @@ public:
                 }
             }
         }
-
         ans += open;
 
         return ans;
