@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Krishna-kumari05/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krishna-kumari05/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Krishna-kumari05/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Krishna-kumari05/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Krishna-kumari05/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishna-kumari05/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Krishna-kumari05/leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krishna-kumari05/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Krishna-kumari05/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0583-delete-operation-for-two-strings](https://github.com/Krishna-kumari05/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0856-score-of-parentheses](https://github.com/Krishna-kumari05/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Krishna-kumari05/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Krishna-kumari05/leetcode/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Krishna-kumari05/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
