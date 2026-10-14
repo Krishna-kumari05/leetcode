@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Krishna-kumari05/leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Krishna-kumari05/leetcode/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishna-kumari05/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Krishna-kumari05/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Krishna-kumari05/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Krishna-kumari05/leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Krishna-kumari05/leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Krishna-kumari05/leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krishna-kumari05/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
