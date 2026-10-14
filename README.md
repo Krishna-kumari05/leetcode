@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Krishna-kumari05/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-kumari05/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Krishna-kumari05/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Krishna-kumari05/leetcode/tree/master/0322-coin-change) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishna-kumari05/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0870-advantage-shuffle](https://github.com/Krishna-kumari05/leetcode/tree/master/0870-advantage-shuffle) |
 | [1048-longest-string-chain](https://github.com/Krishna-kumari05/leetcode/tree/master/1048-longest-string-chain) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Krishna-kumari05/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-kumari05/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krishna-kumari05/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Krishna-kumari05/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Krishna-kumari05/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krishna-kumari05/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Krishna-kumari05/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -704,4 +708,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krishna-kumari05/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krishna-kumari05/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Krishna-kumari05/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
