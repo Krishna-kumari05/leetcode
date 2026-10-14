@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Krishna-kumari05/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Krishna-kumari05/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-kumari05/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Krishna-kumari05/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Krishna-kumari05/leetcode/tree/master/0322-coin-change) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krishna-kumari05/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Krishna-kumari05/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Krishna-kumari05/leetcode/tree/master/0127-word-ladder) |
+| [0268-missing-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishna-kumari05/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Krishna-kumari05/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krishna-kumari05/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Krishna-kumari05/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0870-advantage-shuffle](https://github.com/Krishna-kumari05/leetcode/tree/master/0870-advantage-shuffle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krishna-kumari05/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Krishna-kumari05/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Krishna-kumari05/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krishna-kumari05/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Krishna-kumari05/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Krishna-kumari05/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Krishna-kumari05/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krishna-kumari05/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Krishna-kumari05/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Krishna-kumari05/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Krishna-kumari05/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Krishna-kumari05/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Krishna-kumari05/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Krishna-kumari05/leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Krishna-kumari05/leetcode/tree/master/0836-rectangle-overlap) |
